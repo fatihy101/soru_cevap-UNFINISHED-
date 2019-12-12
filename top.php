@@ -17,4 +17,7 @@ require("db.php");
       <div class="container">
 <?php
 require("navbar.php");
+ //Test
  ?>
+
+ 
